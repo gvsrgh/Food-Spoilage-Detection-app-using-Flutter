@@ -11,7 +11,8 @@ This project showcases a **Food Spoilage Detection App** developed for the Smart
 
 ## Screenshot 📸
 
-![Food Spoilage Detection]([https://github.com/gvsrgh/Food-Spoilage-Detection-app-using-Flutter](https://github.com/gvsrgh/Food-Spoilage-Detection-app-using-Flutter/blob/main/Output.jpeg))
+![Food Spoilage Detection](https://github.com/gvsrgh/Food-Spoilage-Detection-app-using-Flutter/blob/main/Output.jpeg)
+
 *Interface showcasing the food spoilage detection app.*
 
 ---
